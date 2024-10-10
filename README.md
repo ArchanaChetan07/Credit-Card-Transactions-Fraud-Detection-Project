@@ -7,7 +7,7 @@
 - **Number of Variables:** 31 features
 - **Dataset Size:** The original dataset contains 284,807 transactions, but a subset of 30,000 transactions will be used for this analysis.
 - **Imbalance:** The dataset is highly imbalanced, with only 492 fraudulent transactions, representing approximately 0.17% of the total transactions.
-<img width="478" alt="Screenshot 2024-10-09 at 8 32 56 PM" src="https://github.com/user-attachments/assets/b9bc0f21-6aac-4c54-b61b-34db60612e9e">
+<img width="578" alt="Screenshot 2024-10-09 at 8 32 56 PM" src="https://github.com/user-attachments/assets/b9bc0f21-6aac-4c54-b61b-34db60612e9e">
 
 ## Purpose
 The purpose of this project is to develop an effective machine learning model that accurately identifies fraudulent credit card transactions. This effort aims to minimize financial losses for financial institutions and prevent fraudulent activities, ultimately leading to more secure transactions.
