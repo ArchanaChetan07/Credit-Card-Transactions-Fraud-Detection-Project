@@ -16,7 +16,6 @@ The purpose of this project is to develop an effective machine learning model th
 With the rise of digital transactions, fraudulent credit card activities have become a significant concern. Financial institutions require robust systems to detect fraud in real-time without disrupting legitimate transactions. A typical challenge in fraud detection involves dealing with highly imbalanced datasets, making it crucial to address class imbalance while maintaining model accuracy.
 
 ## Conclusion
-## Conclusion
 CatBoost was selected as the most effective model due to its impressive recall rate of 86%, indicating its strong reliability in detecting fraudulent transactions. This high recall rate is essential for minimizing the risk of financial losses for institutions, as it ensures that the majority of actual fraud cases are successfully identified. The insights gained from this project will contribute to developing more robust fraud detection systems in the financial sector, enhancing security for digital transactions.
 
 ## Libraries Used
